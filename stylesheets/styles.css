@@ -1,0 +1,93 @@
+.jumbotron {
+  background-image: url("sky.jpeg");
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: 100% 80%;
+  padding: 250px 15px;
+  margin-bottom: 30px;
+  color: inherit;
+}
+.simple-calendar-one {
+  background-image: url("simple_calendar.png");
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: 25% 50%;
+  height: 300px;
+  width: 350px;
+  border-radius: 5px;
+}
+.workhub {
+  background-image: url("workhub.png");
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 300px;
+  width: 350px;
+  border-radius: 5px;
+}
+
+.silverbase {
+  background-image: url("silverbase.png");
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 300px;
+  width: 350px;
+  border-radius: 5px;
+
+}
+
+.me {
+  background-image: url("me.jpg");
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+
+}
+
+.ruby {
+  background-image: url("ruby.png");
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+}
+
+.rails {
+  background-image: url("rails.png");
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: 50% 55%;
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+}
+
+.angular {
+  background-image: url("angular.jpg");
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: 50% 55%;
+  height: 150px;
+  width: 150px;
+  border-radius: 5px;
+}
+
+.underscore {
+  background-image: url("underscorejs.png");
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: 90%;
+  height: 150px;
+  width: 250px;
+  border-radius: 5px;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
