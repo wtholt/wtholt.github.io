@@ -16,6 +16,17 @@
   width: 350px;
   border-radius: 5px;
 }
+
+.simple-calendar-one:hover {
+  background-image: url("simple_calendar_two.png");
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: 25% 50%;
+  height: 300px;
+  width: 350px;
+  border-radius: 5px;
+}
+
 .workhub {
   background-image: url("workhub.png");
   background-image: no-repeat;
@@ -26,8 +37,29 @@
   border-radius: 5px;
 }
 
+.workhub:hover {
+  background-image: url("workhubtwo.png");
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 300px;
+  width: 350px;
+  border-radius: 5px;
+}
+
 .silverbase {
   background-image: url("silverbase.png");
+  background-image: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 300px;
+  width: 350px;
+  border-radius: 5px;
+
+}
+
+.silverbase:hover {
+  background-image: url("silverbasetwo.png");
   background-image: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
