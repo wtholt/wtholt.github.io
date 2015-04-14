@@ -15,6 +15,7 @@
   height: 300px;
   width: 350px;
   border-radius: 5px;
+  border: 1px solid black;
 }
 
 .simple-calendar-one:hover {
@@ -35,6 +36,7 @@
   height: 300px;
   width: 350px;
   border-radius: 5px;
+  border: 1px solid black;
 }
 
 .workhub:hover {
@@ -55,6 +57,7 @@
   height: 300px;
   width: 350px;
   border-radius: 5px;
+  border: 1px solid black;
 
 }
 
